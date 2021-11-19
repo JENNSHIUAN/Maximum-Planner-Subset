@@ -5,26 +5,26 @@ Given is a set C of n chords of a circle (see Figure 1(a)). We assume that no tw
 ![alt text](https://github.com/JENNSHIUAN/Maximum-Planner-Subset/blob/main/Figure/Maximum%20planner%20subset.PNG?raw=true)
 
 ## Input
-------
+
 The input consists of an integer 2n, 1 ≤ 𝑛 ≤ 10000, denoting the number of vertices on a circle, followed by n lines, each containing two integers a and b (0 ≤ 𝑎, 𝑏 ≤ 2𝑛 − 1), denoting two endpoints of a chord. A single “0” (zero) in the input line signifies the end of input.
 
 ## Output
-------
+
 The output file reports the number of chords in the maximum planar subset in the input circle of n chords, followed by a list of the two endpoints for each resulting chord in the maximum planar subset (sorted by the first endpoint in the increasing order).
 ![alt text](https://github.com/JENNSHIUAN/Maximum-Planner-Subset/blob/main/Figure/input_output_example.PNG?raw=true)
 
 ## Compile
-------
+
 ```bash
 $ gcc -o main main.c
 ```
 
 ## Usage
-------
+
 ```bash
 $ ./main [input file.in] [output file.out]
 ```
 
 ## REMARKS
-------
+
 This is a homework from Algorithm Design and Application Lesson NTUST 2019 fall semester.
