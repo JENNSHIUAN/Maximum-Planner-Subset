@@ -15,14 +15,16 @@ The output file reports the number of chords in the maximum planar subset in the
 
 ## Compile
 ------
-gcc -o main main.c
+```bash
+$ gcc -o main main.c
+```
 
 ## Usage
 ------
 ```bash
-./main [input file.in] [output file.out]
+$ ./main [input file.in] [output file.out]
 ```
 
 ## REMARKS
 ------
-This is a homework from Algorithm Lesson NTUST 2019 fall semester. By applying dynamic programming.
+This is a homework from Algorithm Design and Application Lesson NTUST 2019 fall semester.
