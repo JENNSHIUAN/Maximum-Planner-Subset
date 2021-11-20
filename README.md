@@ -4,8 +4,6 @@ Given is a set C of n chords of a circle (see Figure 1(a)). We assume that no tw
 
 ![alt text](https://github.com/JENNSHIUAN/Maximum-Planner-Subset/blob/main/Figure/Maximum%20planner%20subset.PNG?raw=true)
 
-Figure 1
-
 ## Input
 
 The input consists of an integer 2n, 1 ≤ 𝑛 ≤ 10000, denoting the number of vertices on a circle, followed by n lines, each containing two integers a and b (0 ≤ 𝑎, 𝑏 ≤ 2𝑛 − 1), denoting two endpoints of a chord. A single “0” (zero) in the input line signifies the end of input.
