@@ -11,6 +11,7 @@ The input consists of an integer 2n, 1 ≤ 𝑛 ≤ 10000, denoting the number o
 ## Output
 
 The output file reports the number of chords in the maximum planar subset in the input circle of n chords, followed by a list of the two endpoints for each resulting chord in the maximum planar subset (sorted by the first endpoint in the increasing order).
+
 ![alt text](https://github.com/JENNSHIUAN/Maximum-Planner-Subset/blob/main/Figure/input_output_example.PNG?raw=true)
 
 ## Compile
